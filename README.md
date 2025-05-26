@@ -1,1 +1,1 @@
-# E-Commerce Business-Case-Study SQL-BigQuery
+# E-Commerce Business Case Study using SQL (BigQuery)
