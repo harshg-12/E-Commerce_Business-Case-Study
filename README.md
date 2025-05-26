@@ -1,1 +1,1 @@
-# E-Commerce Business Case Study using SQL (BigQuery)
+# Olist: An E-Commerce Analysis of the Brazilian Marketplace
